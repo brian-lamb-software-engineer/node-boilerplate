@@ -1,0 +1,15 @@
+
+## global ignores
+public/
+node_modules/
+**/node_modules/
+
+## user specific
+#directories
+ignore/
+.idea/
+
+# files
+readme.txt
+*.swp
+*_log
